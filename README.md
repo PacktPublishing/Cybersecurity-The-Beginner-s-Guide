@@ -17,18 +17,18 @@ The goal is to give readers practical exercises and curated references that brin
 
 ### 🔗 External References
 - **[`External_References.md`](./External_References.md)**  
-  Chapter-by-chapter external references: case studies, tools, incidents, and recommended reading:contentReference[oaicite:0]{index=0}.
+  Chapter-by-chapter external references: case studies, tools, incidents, and recommended reading.
 - **[`External_References_By_Category.md`](./External_References_By_Category.md)**  
-  References organized by category (tools, OSINT, frameworks, case studies, communities, influencers, etc.):contentReference[oaicite:1]{index=1}.
+  References organized by category (tools, OSINT, frameworks, case studies, communities, influencers, etc.).
 
 ### 🧪 Hands-On Lab Guides
 These guides provide safe, practical exercises aligned with the book’s later chapters:
 - **[`Chapter10_Lab_Setup.md`](./Chapter10_Lab_Setup.md)**  
   Build your personal cybersecurity lab with Windows and Kali Linux virtual machines:contentReference[oaicite:2]{index=2}.
 - **[`Chapter11_OSINT_Lab.md`](./Chapter11_OSINT_Lab.md)**  
-  Practice open-source intelligence (OSINT): Google dorking, WHOIS, image searches, metadata analysis, and breach lookups:contentReference[oaicite:3]{index=3}.
+  Practice open-source intelligence (OSINT): Google dorking, WHOIS, image searches, metadata analysis, and breach lookups.
 - **[`Chapter12_WebApp_Pentest_Lab.md`](./Chapter12_WebApp_Pentest_Lab.md)**  
-  Explore web app security testing using OWASP Juice Shop to practice the OWASP Top 10:contentReference[oaicite:4]{index=4}.
+  Explore web app security testing using OWASP Juice Shop to practice the OWASP Top 10.
 
 ---
 
@@ -55,4 +55,4 @@ Cybersecurity is always changing. If you have updates, corrections, or new resou
 
 ---
 
-<p align="center">🛡️ Happy Learning & Safe Hacking! 🛡️</p>
+<p align="center">🛡️ You Got This! Be Strong and Courageous🛡️</p>
