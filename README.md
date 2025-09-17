@@ -24,7 +24,7 @@ The goal is to give readers practical exercises and curated references that brin
 ### 🧪 Hands-On Lab Guides
 These guides provide safe, practical exercises aligned with the book’s later chapters:
 - **[`Chapter10_Lab_Setup.md`](./Chapter10_Lab_Setup.md)**  
-  Build your personal cybersecurity lab with Windows and Kali Linux virtual machines:contentReference[oaicite:2]{index=2}.
+  Build your personal cybersecurity lab with Windows and Kali Linux virtual machines:contentReference.
 - **[`Chapter11_OSINT_Lab.md`](./Chapter11_OSINT_Lab.md)**  
   Practice open-source intelligence (OSINT): Google dorking, WHOIS, image searches, metadata analysis, and breach lookups.
 - **[`Chapter12_WebApp_Pentest_Lab.md`](./Chapter12_WebApp_Pentest_Lab.md)**  
